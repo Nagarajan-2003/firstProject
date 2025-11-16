@@ -8,9 +8,7 @@
     <artifactId>firstProject</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
-    <name>firstProject</name>
 
-    <!-- Set Java Version -->
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
